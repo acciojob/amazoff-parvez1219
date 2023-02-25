@@ -1,6 +1,5 @@
 package com.driver;
 
-// parent
 public class DeliveryPartner {
 
     private String id;
